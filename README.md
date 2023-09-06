@@ -1,6 +1,7 @@
 # Simple To-do-list
 
 Abstract:
+
 Created a simple interactive to do list using HTML, CSS, and JavaScript.
 
 
